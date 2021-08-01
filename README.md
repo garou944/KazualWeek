@@ -10,6 +10,8 @@ Links: **[itch.io page](https://ninja-muffin24.itch.io/funkin) ⋅ [Newgrounds](
 ## Kazual Wekk
 **Kazual Week** is a mod for Friday Night Funkin', including a new charecter and new charts.
 
+Links: **[GameBanana mod page](https://gamebanana.com/mods/310341) ⋅ [KazualWeek Discord server](https://discord.gg/ePzH3P36V5) ⋅ [Kaz's Twitch](https://www.twitch.tv/garou944) ⋅ [Tom's Twicth](https://www.twitch.tv/tomaveclevdsl) **
+
 **REMEMBER**: This is a **mod**. This is not the vanilla game and should be treated as a **modification**. This is not and probably will never be official, so don't get confused.
 
 
