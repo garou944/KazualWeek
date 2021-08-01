@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="other dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Other0000" x="0" y="0" width="400" height="433" frameX="0" frameY="-1" frameWidth="619" frameHeight="434"/>
+	<SubTexture name="Other0001" x="400" y="0" width="474" height="434" frameX="0" frameY="0" frameWidth="619" frameHeight="434"/>
+	<SubTexture name="Other0002" x="874" y="0" width="619" height="434"/>
+	<SubTexture name="Other0003" x="1493" y="0" width="479" height="433" frameX="0" frameY="-1" frameWidth="619" frameHeight="434"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SP.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PG0000" x="50" y="50" width="2637" height="1443"/>
+	<SubTexture name="PG0001" x="2737" y="50" width="2637" height="1443"/>
+	<SubTexture name="PG0002" x="5424" y="50" width="2637" height="1443"/>
+	<SubTexture name="PG0003" x="50" y="1543" width="2637" height="1443"/>
+	<SubTexture name="PG0004" x="2737" y="1543" width="2637" height="1443"/>
+	<SubTexture name="PG0005" x="5424" y="1543" width="2637" height="1443"/>
+	<SubTexture name="PG0006" x="50" y="3036" width="2637" height="1443"/>
+	<SubTexture name="PG0007" x="2737" y="3036" width="2637" height="1443"/>
+</TextureAtlas>
